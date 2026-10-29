@@ -5,11 +5,7 @@
 ## 💻 Core Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git" height="48" alt="Skills" />
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_668e6f26a6.svg"
-       height="48"
-       alt="Gemini"
-       style="vertical-align: middle; margin-left: 6px;" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git" />
 </p>
 
 
