@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmetefendi09/ahmetefendi09/main/Screenshot_2026-10-29-19-22-28-296_com.zhiliaoapp.musically-edit.jpg" width="100%">
+</p>
+
+
 Hey, I'm Ahmet. 👋
 
 17-year-old self-taught developer and open-source enthusiast based in Linux. I like building things from scratch, breaking them apart to see how they work, and putting them back together better.
