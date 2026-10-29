@@ -1,3 +1,9 @@
-Hello My Name is Ahmet, Im a 17 years old self-learner newbie opensource developer
-Electric and Electronics; Understanding Hardware and Software, fixing electronic circuits and doing pcbs are some of the things I can do ( not professional rn ) doing projects for testing my tools, fun and school projects 
-Im using linux for main so most of my projects made for linux  
+Hey, I'm Ahmet. 👋
+
+17-year-old self-taught developer and open-source enthusiast based in Linux. I like building things from scratch, breaking them apart to see how they work, and putting them back together better.
+
+    Hardware & Electronics: From debugging circuits to designing custom PCBs. I build hardware projects just to test my tools, push my limits, and survive school projects.
+
+    Software: Mostly writing C++ and building tools tailored for Linux environments—because if I'm going to use an OS, I might as well customize every layer of it.
+
+Always tinkering, always learning. Code is my medium, hardware is my playground.
